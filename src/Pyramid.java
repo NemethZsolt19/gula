@@ -1,10 +1,10 @@
 /*
 * File: Pyramid.java
-* Author: NÉmeth Zsolt
+* Author: Németh Zsolt
 * Copyright: 2024, Németh Zsolt
 * Group: Szoft II/II/N
 * Date: 2024-11-28
-* Github: https://github.com/janos12345/
+* Github: https://github.com/nemethzsolt420/
 * Licenc: GNU GPL
 */
 import java.util.Scanner;
